@@ -85,5 +85,3 @@ The script will:
 **Abinash Prasana**
 
 ---
-
-Let me know if you want any further customization or want to add sections like “Contributing,” “License,” or “Troubleshooting”!
