@@ -71,14 +71,13 @@ The script will:
 
 ---
 
-## 📌 Example Output
+## 📌 Output
 
 ### 📋 Expense Summary Table
-![Expense Summary Table](Monthly_Budget_Analyzer/Screenshots/Expense_Summary_Table.png)
+![📋 Expense Summary Table](Monthly%20Budget%20Analyzer/Screenshots/Expense_Summary_Table.png)
 
 ### 📊 Monthly Expense Chart
-![Monthly Expense Chart](Monthly_Budget_Analyzer/Screenshots/Monthly_Expense_Chart.png)
-
+![📊 Monthly Expense Chart](Monthly%20Budget%20Analyzer/Screenshots/Monthly_Expense_Chart.png)
 ---
 
 ## 👨‍💻 Author
